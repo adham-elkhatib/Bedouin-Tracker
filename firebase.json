@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"bedouin-tracker","appId":"1:349951487309:android:2ea27fe57fb25bd76e9b04","fileOutput":"android/app/google-services.json"}},"dart":{"lib/core/Services/Firebase/src/firebase_options.dart":{"projectId":"bedouin-tracker","configurations":{"android":"1:349951487309:android:2ea27fe57fb25bd76e9b04"}}}}}}
